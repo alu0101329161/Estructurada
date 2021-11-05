@@ -15,3 +15,14 @@ Pregunta 42. "..."
 Pregunta 43. "2 2 2 "
 Pregunta 44. Es un array separando las palabras por espacios  ["this", "is", "a", "test"] 
 Pregunta 45. genera un array y lo de dentro lo pone como si fueran comillas simples ["\\t", "\\n"]
+--Pregunta de la 46 a 55--
+Pregunta 46. lo mismo que la 45 pero con comillas dobles
+Pregunta 47. [nil, nil, nil]
+Pregunta 48. [0, 0, 0]
+Pregunta 49. [[1, 2], [3, 4]]
+Pregunta 50. [0, 2, 4]
+Pregunta 51. ["b"], ["d", "e"], ["a", "b", "c"], ["a"], ["d", "e"]
+Pregunta 52. ["A", "B", "c", "d", "e"], ["A", "B", "C", "D", "E"], [1, 2, 3, "A", "B", "C", "D", "E"], [3, "A>
+Pregunta 53. [1, 2, 3], [1, 2, 3, 4, 5], [1, 2, 3, 4, 5, [6, 7, 8]], error
+Pregunta 54. ["a", "b", "c", "b", "a"], ["a", "a"]
+Pregunta 55. [0, 0, 0, 0, 0, 0, 0, 0]
